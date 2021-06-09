@@ -14,3 +14,7 @@ This helps in increasing robustness of our deep learning model.
 1. <a href="https://github.com/JackJJCodes/DeepLearning/blob/main/DataAugmentation/Data-Augmentation.ipynb">Data-Augmentation.ipynb</a>: Contains a simple tutorial for getting started with data-augmentation.
 <br><br>
 2. <a href="https://github.com/JackJJCodes/DeepLearning/tree/main/DataAugmentation/preview">Preview</a>: Contains pictures of the newly created images.
+
+## CNN:
+This folder contains codes regarding CNN(Convolutional Neural Network).
+1. <a href="https://github.com/JackJJCodes/DeepLearning/blob/main/CNN/CNNWithKerasTuner.ipynb">CNNWithKerasTuner.ipynb</a>: Contains a simple tutorial, as to how to use Keras-Tuner with CNN.<p>By using keras-tuner, the process of finding optimum hyperparameters is <b>automated</b>.
